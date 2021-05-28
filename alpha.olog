@@ -1,0 +1,104 @@
+|a0.1 20 september 2020, 20:52    [Was in development for 4 hours]
+Fill selection UI's slots with color.
+Make loading screen.
+Make UI icons.
+Remove grass' sharp corners.
+  a0.1.1 21:12
+  Make kind of UI function. It made the cursor change sprites on click.
+
+
+|a0.2 20 september 2020, 23:04    [Was in development for 7 hours]
+Make cannons rotate to mouse.
+Add version to logo.
+Add wall.
+Add building.
+Bug: A lot of blocks can be placed on a single tile.
+  a0.2.1 23:16
+  Upscale generation to 8x8 tiles instead of 6x6 tiles.
+  Bring back grass' sharp corners.
+    a0.2.2 23:39
+    Fill background with dirt color.
+    Increase probability for grass generation.
+
+
+|a0.3 21 september 2020, 10:36    [Was in development for 3 hours]
+Add outlines for cannons.
+Add switchable build mode.
+  a0.3.1 12:17
+  Add splashes.
+  Edit UI a bit.
+
+
+|a0.4 28 september 2020, 10:42    [Was in development for 5 days] [From now all versions will be that massive]
+Fix bullets go under blocks placed after the parent cannon.
+Fill background with grass color.
+Make cannons shoot.
+Make slow cannon rotation.
+Make various cannon stats depending on tier. 
+Update turret icons.
+Edit splashes.
+Add tall grass.
+Add game logo.
+Add text for loading bar.
+Add team marks.
+Remove grass' sharp corners again.
+Bug: Fast loading.
+Bug: "boom" sound is pausing bullet animation.
+Bug: Cannons rotate weirdly when cursor goes somewhere lower the cannon.
+  a0.4.1 10:47
+  Delete unitsAndWaves which was created while alpha 0.4 was in [dev].
+    a0.4.2 20 sep, 22:01
+	Fix fast loading.
+    [Note: This version is one of most unstable ones.]
+
+
+|a0.5 16 october 2020, 15:23    [Was in development for 19 days]
+Fix "boom" sound pausing bullet animation.
+Make red team be choosable.
+Make red team build.
+Make terrain showing tooglable.
+Update logo.
+Update bullet animation.
+Add selection icons blinking.
+Add soundtrack. [wewy bawd dowt uwse iwt]
+Add settings.
+Add experimental pausing feature. Used only when opening settings.
+Add cannon inaccuracy.
+Add building cooldown.
+Add build mode enabling/disabling message.
+Bug: UI icons blinking while loading or in settings.
+Bug: Build mode message while loading or in settings.
+Bug: Multiple blocks build at once.
+  a0.5.1 15:35
+  Fix building while loading or in settings.
+  Add building cursor blinking.
+  Add building cursor hiding.
+  Remove team switching.
+  Bug: Cannons are bright... Like, really.
+    a0.5.2 16:11
+	Fix bright cannons.
+	Fix multiple blocks building at once.
+	Fix UI icon blinking while loading or in settings.
+	Begin to fix infinite blocks can be placed on one tile.
+	  a0.5.3 16:20
+	  Fix building on UI. [yeah, it was enough boring to make new version]
+	  [P.S.: Finally, all small bugs are fixed. I am almost ready to realase this game! ]
+          [P.P.S.: nope]
+
+a0.6 18 october 2020, 15:46
+Add map importing tool for offline editor.
+Add v1 soundtrack.
+  0.6.1 8 november 2020?
+  Add v2 soundtrack.
+
+a0.7 1 january 2021
+Add player:
+Player fall animation.
+Cut soundtrack.
+Make turrets don't shoot when Build Mode is on.
+Add turret ruins.
+Update map importing tool.
+Fix building on UI again.
+Fix multiple blocks building at once 
+
+[TODO: optimize code size]
